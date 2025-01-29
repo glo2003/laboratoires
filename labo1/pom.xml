@@ -57,7 +57,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>ca.ulaval.glo2003.Main</mainClass>
+                    <mainClass>ulaval.glo2003.Main</mainClass>
                 </configuration>
             </plugin>
             <plugin>
