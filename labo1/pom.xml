@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ca.ulaval.glo2003</groupId>
+    <groupId>ulaval.glo2003</groupId>
     <artifactId>labo1</artifactId>
     <packaging>jar</packaging>
     <version>0.0.0</version>
@@ -57,7 +57,7 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <mainClass>ca.ulaval.glo2003.Main</mainClass>
+                    <mainClass>ulaval.glo2003.Main</mainClass>
                 </configuration>
             </plugin>
             <plugin>
